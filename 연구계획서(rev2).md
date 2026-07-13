@@ -178,7 +178,7 @@ expected_question: 해당 페이지가 근거가 되는 대표 질문
 - 배너
 - 반복되는 사이트 안내 문구
 
-출력 형식은 Markdown을 기본으로 하며, 원본 HTML과 변환 결과를 함께 보관한다.
+출력 형식은 txt 기본으로 하며, 원본 HTML과 변환 결과를 함께 보관한다.
 
 ### 4.4 이미지 처리
 
@@ -276,7 +276,7 @@ data/
 ├── raw/
 │   └── html/
 ├── parsed/
-│   └── markdown/
+│   └── txt/
 ├── processed/
 │   ├── documents.jsonl
 │   └── chunks.jsonl
@@ -413,7 +413,7 @@ new / unchanged / updated / deleted 판별
 | --- | --- | --- |
 | 07/13 | 연구 계획서 및 수집 범위 확정 | 6개 업무별 URL 목록과 메타데이터 필드 확정 |
 | 07/14 | 원본 수집기 구현 | HTML, 상태 코드, 수집 시각, 첨부파일 URL 저장 |
-| 07/15 | HTML → Markdown 변환기 구현 | 제목·문단·목록·기본 표 변환 및 불필요 영역 제거 |
+| 07/15 | HTML → txt 변환기 구현 | 제목·문단·목록·기본 표 변환 및 불필요 영역 제거 |
 | 07/16 | 메타데이터 및 LLM 요약 생성 | `documents.jsonl` 생성 |
 | 07/17 | 청킹 및 적재 형식 구현 | `chunks.jsonl` 생성 및 원본 문서 연결 |
 | 07/18 | 관리자 트리거 갱신 구현 | `full/update` 실행 및 해시 비교 동작 |
@@ -440,7 +440,7 @@ new / unchanged / updated / deleted 판별
 
 - [ ] 6개 업무별 수집 URL 목록을 확정한다.
 - [ ] 원본 HTML과 수집 정보를 저장한다.
-- [ ] 동일 입력에 동일한 결과를 생성하는 HTML → Markdown 변환기를 구현한다.
+- [ ] 동일 입력에 동일한 결과를 생성하는 HTML → txt 변환기를 구현한다.
 - [ ] 제목, 문단, 목록, 기본 표, 링크 및 첨부파일 정보를 보존한다.
 - [ ] 페이지별 LLM 요약 메타데이터를 생성한다.
 - [ ] 출처 URL, 업무, 하위 분류, 수집 시각, 해시 등의 메타데이터를 태깅한다.
@@ -481,7 +481,7 @@ project/
 ├── data/
 │   ├── urls/
 │   ├── raw/html/
-│   ├── parsed/markdown/
+│   ├── parsed/txt/
 │   ├── processed/documents.jsonl
 │   ├── processed/chunks.jsonl
 │   └── evaluation/qa_dataset.jsonl
