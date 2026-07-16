@@ -5,10 +5,10 @@
   "ok": true,
   "content_type": "text/html; charset=UTF-8",
   "encoding": "UTF-8",
-  "elapsed_seconds": 2.635,
-  "collected_at": "2026-07-16T11:33:23+09:00",
+  "elapsed_seconds": 2.65,
+  "collected_at": "2026-07-16T14:07:14+09:00",
   "content_length": 501813,
-  "raw_sha256": "eee4143b934599701ea1dd440f587eea9bd9eff68d2a69604704d23ddda505d3",
+  "raw_sha256": "e7373769d3b3a1b9a4fccca6f938bffc96a4419cb6d004f910f4195d10d2b3fc",
   "redirect_history": [],
   "selected_headers": {
     "Content-Type": "text/html; charset=UTF-8",
@@ -18,6 +18,6 @@
   "business_function": "예금보험금 안내",
   "page_title_manifest": "예금보험금이란?",
   "fetch_strategy": "requests_html",
-  "parser_profile": "kdic_final_media_attachment_v3",
+  "parser_profile": "kdic_final_integrated_v4",
   "raw_html_path": "raw/html/예금보험금 안내/BI-003.html"
 }

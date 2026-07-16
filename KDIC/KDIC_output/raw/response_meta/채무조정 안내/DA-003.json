@@ -5,10 +5,10 @@
   "ok": true,
   "content_type": "text/html; charset=UTF-8",
   "encoding": "UTF-8",
-  "elapsed_seconds": 3.838,
-  "collected_at": "2026-07-16T11:35:24+09:00",
+  "elapsed_seconds": 2.149,
+  "collected_at": "2026-07-16T14:09:12+09:00",
   "content_length": 502711,
-  "raw_sha256": "9a3ce38fe84c2b772548c6bec54a2ef3d8731f640ae4bb9f9992156c1f7b3f7a",
+  "raw_sha256": "929b7a483ede99b60055ada0b43d66d6c714b5ceff9f862a4e1f26ea17fa5301",
   "redirect_history": [],
   "selected_headers": {
     "Content-Type": "text/html; charset=UTF-8",
@@ -18,6 +18,6 @@
   "business_function": "채무조정 안내",
   "page_title_manifest": "채무조정",
   "fetch_strategy": "requests_html",
-  "parser_profile": "kdic_final_media_attachment_v3",
+  "parser_profile": "kdic_final_integrated_v4",
   "raw_html_path": "raw/html/채무조정 안내/DA-003.html"
 }
