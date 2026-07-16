@@ -1,11 +1,130 @@
-﻿validation,passed
-DP-001 1억원,True
-UN-003 미수령금 종류,True
-BI-004 전체 페이지,True
-MT-009 구버전 금액 제외,True
-DP-005 FAQ 추출,True
-DP-006 FAQ 추출,True
-MT-004 FAQ 추출,True
-MT-005 FAQ 추출,True
-DA-008 FAQ 추출,True
-HP-002 FAQ 추출,True
+﻿validation,passed,value
+DP-001 인덱싱 문서 청크 존재,True,
+DP-001 FAQ 청크 무손실,True,
+DP-001 청크 본문 보존율,True,1.0
+DP-002 인덱싱 문서 청크 존재,True,
+DP-002 FAQ 청크 무손실,True,
+DP-002 청크 본문 보존율,True,1.0
+DP-003 인덱싱 문서 청크 존재,True,
+DP-003 FAQ 청크 무손실,True,
+DP-003 청크 본문 보존율,True,1.0
+DP-004 인덱싱 문서 청크 존재,True,
+DP-004 FAQ 청크 무손실,True,
+DP-004 청크 본문 보존율,True,1.0
+DP-005 인덱싱 문서 청크 존재,True,
+DP-005 FAQ 청크 무손실,True,
+DP-005 청크 본문 보존율,True,1.0
+DP-006 인덱싱 문서 청크 존재,True,
+DP-006 FAQ 청크 무손실,True,
+DP-006 청크 본문 보존율,True,1.0
+DP-007 인덱싱 문서 청크 존재,True,
+DP-007 FAQ 청크 무손실,True,
+DP-007 청크 본문 보존율,True,1.0
+BI-001 인덱싱 문서 청크 존재,True,
+BI-001 FAQ 청크 무손실,True,
+BI-001 청크 본문 보존율,True,1.0
+BI-002 인덱싱 문서 청크 존재,True,
+BI-002 FAQ 청크 무손실,True,
+BI-002 청크 본문 보존율,True,1.0
+BI-003 인덱싱 문서 청크 존재,True,
+BI-003 FAQ 청크 무손실,True,
+BI-003 청크 본문 보존율,True,1.0
+BI-004 인덱싱 문서 청크 존재,True,
+BI-004 FAQ 청크 무손실,True,
+BI-004 청크 본문 보존율,True,1.0
+UN-001 인덱싱 문서 청크 존재,True,
+UN-001 FAQ 청크 무손실,True,
+UN-001 청크 본문 보존율,True,1.0
+UN-002 인덱싱 문서 청크 존재,True,
+UN-002 FAQ 청크 무손실,True,
+UN-002 청크 본문 보존율,True,1.0
+UN-003 인덱싱 문서 청크 존재,True,
+UN-003 FAQ 청크 무손실,True,
+UN-003 청크 본문 보존율,True,1.0
+UN-004 인덱싱 문서 청크 존재,True,
+UN-004 FAQ 청크 무손실,True,
+UN-004 청크 본문 보존율,True,1.0
+MT-001 인덱싱 문서 청크 존재,True,
+MT-001 FAQ 청크 무손실,True,
+MT-001 청크 본문 보존율,True,1.0
+MT-002 인덱싱 문서 청크 존재,True,
+MT-002 FAQ 청크 무손실,True,
+MT-002 청크 본문 보존율,True,1.0
+MT-003 인덱싱 문서 청크 존재,True,
+MT-003 FAQ 청크 무손실,True,
+MT-003 청크 본문 보존율,True,1.0
+MT-004 인덱싱 문서 청크 존재,True,
+MT-004 FAQ 청크 무손실,True,
+MT-004 청크 본문 보존율,True,1.0
+MT-005 인덱싱 문서 청크 존재,True,
+MT-005 FAQ 청크 무손실,True,
+MT-005 청크 본문 보존율,True,1.0
+MT-006 인덱싱 문서 청크 존재,True,
+MT-006 FAQ 청크 무손실,True,
+MT-006 청크 본문 보존율,True,1.0
+MT-007 인덱싱 문서 청크 존재,True,
+MT-007 FAQ 청크 무손실,True,
+MT-007 청크 본문 보존율,True,1.0
+MT-008 인덱싱 문서 청크 존재,True,
+MT-008 FAQ 청크 무손실,True,
+MT-008 청크 본문 보존율,True,1.0
+MT-009 인덱싱 문서 청크 존재,True,
+MT-009 FAQ 청크 무손실,True,
+MT-009 청크 본문 보존율,True,1.0
+MT-010 인덱싱 문서 청크 존재,True,
+MT-010 FAQ 청크 무손실,True,
+MT-010 청크 본문 보존율,True,1.0
+MT-011 인덱싱 문서 청크 존재,True,
+MT-011 FAQ 청크 무손실,True,
+MT-011 청크 본문 보존율,True,1.0
+MT-012 인덱싱 문서 청크 존재,True,
+MT-012 FAQ 청크 무손실,True,
+MT-012 청크 본문 보존율,True,1.0
+MT-013 인덱싱 문서 청크 존재,True,
+MT-013 FAQ 청크 무손실,True,
+MT-013 청크 본문 보존율,True,1.0
+MT-014 인덱싱 문서 청크 존재,True,
+MT-014 FAQ 청크 무손실,True,
+MT-014 청크 본문 보존율,True,1.0
+MT-015 인덱싱 문서 청크 존재,True,
+MT-015 FAQ 청크 무손실,True,
+MT-015 청크 본문 보존율,True,1.0
+DA-001 인덱싱 문서 청크 존재,True,
+DA-001 FAQ 청크 무손실,True,
+DA-001 청크 본문 보존율,True,1.0
+DA-002 인덱싱 문서 청크 존재,True,
+DA-002 FAQ 청크 무손실,True,
+DA-002 청크 본문 보존율,True,1.0
+DA-003 인덱싱 문서 청크 존재,True,
+DA-003 FAQ 청크 무손실,True,
+DA-003 청크 본문 보존율,True,1.0
+DA-004 인덱싱 문서 청크 존재,True,
+DA-004 FAQ 청크 무손실,True,
+DA-004 청크 본문 보존율,True,1.0
+DA-005 인덱싱 문서 청크 존재,True,
+DA-005 FAQ 청크 무손실,True,
+DA-005 청크 본문 보존율,True,1.0
+DA-006 인덱싱 문서 청크 존재,True,
+DA-006 FAQ 청크 무손실,True,
+DA-006 청크 본문 보존율,True,1.0
+DA-007 인덱싱 문서 청크 존재,True,
+DA-007 FAQ 청크 무손실,True,
+DA-007 청크 본문 보존율,True,1.0
+DA-008 인덱싱 문서 청크 존재,True,
+DA-008 FAQ 청크 무손실,True,
+DA-008 청크 본문 보존율,True,1.0
+HP-001 인덱싱 문서 청크 존재,True,
+HP-001 FAQ 청크 무손실,True,
+HP-001 청크 본문 보존율,True,1.0
+HP-002 인덱싱 문서 청크 존재,True,
+HP-002 FAQ 청크 무손실,True,
+HP-002 청크 본문 보존율,True,1.0
+HP-003 인덱싱 문서 청크 존재,True,
+HP-003 FAQ 청크 무손실,True,
+HP-003 청크 본문 보존율,True,1.0
+DP-001 1억원,True,
+UN-003 미수령금 종류,True,
+BI-004 전체 페이지,True,
+MT-001 영상 공식 페이지 참고 링크,True,
+MT-009 구버전 금액 제외,True,
+MT-009 웹툰 공식 페이지 참고 링크,True,

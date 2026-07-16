@@ -15,6 +15,8 @@
   "blocks": [],
   "attachments": [],
   "images": [],
+  "videos": [],
+  "supplementary_links": [],
   "links": [],
   "actions": [
     {
@@ -31,12 +33,18 @@
     "normalized_decision": "link_only",
     "content_scope": "개인정보 동의·진행현황 결과는 인덱싱하지 않음",
     "action_policy": "O(진행현황 조회)",
-    "auth_required": "동의·본인확인 필요"
+    "auth_required": "동의·본인확인 필요",
+    "attachment_download_policy": "X",
+    "attachment_rag_policy": "none",
+    "attachment_user_delivery_policy": "none",
+    "video_policy": "none",
+    "webtoon_policy": "none",
+    "image_policy": "metadata_only_nondecorative"
   },
   "quality": {
     "status": "pass",
     "reasons": [],
     "action_count": 1
   },
-  "parsed_at": "2026-07-14T16:25:33+09:00"
+  "parsed_at": "2026-07-16T11:00:07+09:00"
 }

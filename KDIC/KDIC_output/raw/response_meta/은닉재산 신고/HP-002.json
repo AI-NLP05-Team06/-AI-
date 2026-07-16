@@ -5,10 +5,10 @@
   "ok": true,
   "content_type": "text/html; charset=UTF-8",
   "encoding": "UTF-8",
-  "elapsed_seconds": 2.601,
-  "collected_at": "2026-07-14T16:25:22+09:00",
-  "content_length": 207724,
-  "raw_sha256": "dd0d40f2913648f00756cf7a13718a1fd2621514768d7cae0bc3a2e36915246e",
+  "elapsed_seconds": 0.68,
+  "collected_at": "2026-07-16T11:00:01+09:00",
+  "content_length": 207720,
+  "raw_sha256": "d7d1f041777ba116301dcc89e0c96f8711f5049ad8f81276726c0c4c2b23d464",
   "redirect_history": [],
   "selected_headers": {
     "Content-Type": "text/html; charset=UTF-8",
@@ -18,6 +18,6 @@
   "business_function": "은닉재산 신고",
   "page_title_manifest": "고객센터 > FAQ > 은닉재산신고",
   "fetch_strategy": "paginated_public",
-  "parser_profile": "kdic_final_v1",
+  "parser_profile": "kdic_final_media_attachment_v2",
   "raw_html_path": "raw/html/은닉재산 신고/HP-002.html"
 }

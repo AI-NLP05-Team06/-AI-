@@ -13,7 +13,7 @@
   "business_function": "착오송금 반환 신청",
   "target_business_function": "착오송금 반환 신청",
   "page_type": "process_page",
-  "parser_profile": "kdic_final_v1",
+  "parser_profile": "kdic_final_media_attachment_v2",
   "breadcrumb": [
     "착오송금 반환 신청",
     "착오송금반환지원 > 소개와 방법안내 > 반환지원절차"
@@ -133,118 +133,24 @@
       "url": "https://fins.kdic.or.kr/assets/images/img-irAa0000m1-pc.png",
       "alt": "예금보험공사를 통한 착오송금 반환지원의 절차",
       "filename": "img-irAa0000m1-pc.png",
-      "image_role": "content_image"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon01.jpg",
-      "alt": "착오송금반환지원 절차 그림1",
-      "filename": "webtoon01.jpg",
-      "image_role": "supplementary_visual"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon02.jpg",
-      "alt": "착오송금반환지원 절차 그림2",
-      "filename": "webtoon02.jpg",
-      "image_role": "supplementary_visual"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon03.jpg",
-      "alt": "착오송금반환지원 절차 그림3",
-      "filename": "webtoon03.jpg",
-      "image_role": "supplementary_visual"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon04.jpg",
-      "alt": "착오송금반환지원 절차 그림4",
-      "filename": "webtoon04.jpg",
-      "image_role": "supplementary_visual"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon05.jpg",
-      "alt": "착오송금반환지원 절차 그림5",
-      "filename": "webtoon05.jpg",
-      "image_role": "supplementary_visual"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon06.jpg",
-      "alt": "착오송금반환지원 절차 그림6",
-      "filename": "webtoon06.jpg",
-      "image_role": "supplementary_visual"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon07.jpg",
-      "alt": "착오송금반환지원 절차 그림7",
-      "filename": "webtoon07.jpg",
-      "image_role": "supplementary_visual"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon08.jpg",
-      "alt": "착오송금반환지원 절차 그림8",
-      "filename": "webtoon08.jpg",
-      "image_role": "supplementary_visual"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon09.jpg",
-      "alt": "착오송금반환지원 절차 그림9",
-      "filename": "webtoon09.jpg",
-      "image_role": "supplementary_visual"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon10.jpg",
-      "alt": "착오송금반환지원 절차 그림10",
-      "filename": "webtoon10.jpg",
-      "image_role": "supplementary_visual"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon11.jpg",
-      "alt": "착오송금반환지원 절차 그림11",
-      "filename": "webtoon11.jpg",
-      "image_role": "supplementary_visual"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon12.jpg",
-      "alt": "착오송금반환지원 절차 그림12",
-      "filename": "webtoon12.jpg",
-      "image_role": "supplementary_visual"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon13.jpg",
-      "alt": "착오송금반환지원 절차 그림13",
-      "filename": "webtoon13.jpg",
-      "image_role": "supplementary_visual"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon14.jpg",
-      "alt": "착오송금반환지원 절차 그림14",
-      "filename": "webtoon14.jpg",
-      "image_role": "supplementary_visual"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon15.jpg",
-      "alt": "착오송금반환지원 절차 그림15",
-      "filename": "webtoon15.jpg",
-      "image_role": "supplementary_visual"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon16.jpg",
-      "alt": "착오송금반환지원 절차 그림16",
-      "filename": "webtoon16.jpg",
-      "image_role": "supplementary_visual"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon17.jpg",
-      "alt": "착오송금반환지원 절차 그림17",
-      "filename": "webtoon17.jpg",
-      "image_role": "supplementary_visual"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon18.jpg",
-      "alt": "착오송금반환지원 절차 그림18",
-      "filename": "webtoon18.jpg",
-      "image_role": "supplementary_visual"
+      "image_role": "process_diagram",
+      "indexable": false,
+      "download_policy": "metadata_only_nondecorative"
     }
   ],
   "videos": [],
+  "supplementary_links": [
+    {
+      "supplementary_id": "64df403512ed34e0",
+      "label": "착오송금 반환지원 절차 웹툰 보기",
+      "url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsGvbkSprtProc/selectScrn.do",
+      "link_type": "webtoon",
+      "indexable": false,
+      "content_status": "reference_only",
+      "display_condition": "user_requests_visual_guide",
+      "notice": "웹툰은 참고용 시각 자료이며 금액·신청 조건은 현재 공식 본문을 우선합니다."
+    }
+  ],
   "policy": {
     "normalized_decision": "include_full_filtered",
     "content_scope": "현재 절차 설명은 인덱싱, 구버전 웹툰 금액 문구는 비인덱싱",
@@ -252,9 +158,15 @@
     "action_policy": "있을 경우 O(신청)",
     "expected_action_types": "apply",
     "pagination_policy": "불필요",
-    "auth_required": "필요 가능"
+    "auth_required": "필요 가능",
+    "attachment_download_policy": "X",
+    "attachment_rag_policy": "none",
+    "attachment_user_delivery_policy": "none",
+    "video_policy": "none",
+    "webtoon_policy": "reference_only_official_page",
+    "image_policy": "metadata_only_nondecorative"
   },
-  "parsed_at": "2026-07-14T16:23:52+09:00",
+  "parsed_at": "2026-07-16T10:59:13+09:00",
   "excluded_content": [
     {
       "reason": "구버전 지원금액이 포함된 웹툰 설명",
@@ -276,6 +188,8 @@
     "table_count": 0,
     "attachment_button_count": 0,
     "action_count": 0,
+    "video_count": 0,
+    "supplementary_link_count": 1,
     "noise_hits": []
   },
   "pagination_collection": {
@@ -288,7 +202,19 @@
   },
   "downloaded_assets": {
     "attachments": [],
-    "images": [],
+    "images": [
+      {
+        "url": "https://fins.kdic.or.kr/assets/images/img-irAa0000m1-pc.png",
+        "alt": "예금보험공사를 통한 착오송금 반환지원의 절차",
+        "filename": "img-irAa0000m1-pc.png",
+        "image_role": "process_diagram",
+        "indexable": false,
+        "download_policy": "metadata_only_nondecorative",
+        "local_path": "raw/assets/착오송금 반환 신청/MT-009/images/img-irAa0000m1-pc.png",
+        "size_bytes": 122511,
+        "sha256": "aff28135a49acf2d40a3d0147cfb8aefd35c761053a9961f4ef4c1ff1ecfdcee"
+      }
+    ],
     "failures": []
   }
 }

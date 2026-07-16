@@ -5,10 +5,10 @@
   "ok": true,
   "content_type": "text/html; charset=UTF-8",
   "encoding": "UTF-8",
-  "elapsed_seconds": 2.495,
-  "collected_at": "2026-07-14T16:22:49+09:00",
-  "content_length": 193255,
-  "raw_sha256": "b6992620b2c328aa820bf6714a93a883310d341b314d8ba12ceb4cdd37f61f0f",
+  "elapsed_seconds": 0.604,
+  "collected_at": "2026-07-16T10:58:42+09:00",
+  "content_length": 193251,
+  "raw_sha256": "b57822d61e006fe75a0d74b5c70fbed105dea48f949f474a4fb010274c2c29c4",
   "redirect_history": [],
   "selected_headers": {
     "Content-Type": "text/html; charset=UTF-8",
@@ -18,6 +18,6 @@
   "business_function": "고객 미수령금 신청",
   "page_title_manifest": "미수령금통합신청 > 소개와 신청방법 안내 > 예금자 대상 전화문의 안내",
   "fetch_strategy": "requests_html",
-  "parser_profile": "kdic_final_v1",
+  "parser_profile": "kdic_final_media_attachment_v2",
   "raw_html_path": "raw/html/고객 미수령금 신청/UN-002.html"
 }

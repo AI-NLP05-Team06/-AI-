@@ -5,10 +5,10 @@
   "ok": true,
   "content_type": "text/html; charset=UTF-8",
   "encoding": "UTF-8",
-  "elapsed_seconds": 3.379,
-  "collected_at": "2026-07-14T16:24:33+09:00",
+  "elapsed_seconds": 0.921,
+  "collected_at": "2026-07-16T10:59:36+09:00",
   "content_length": 495243,
-  "raw_sha256": "6e9201896acb67a7cc10fe69fbf4ad689f6e8a89ed26b6b831fffbf46d133469",
+  "raw_sha256": "0bdef0244aef12e0f87f4426c623b1a6b44dc090d0a7514870175aa5a7d24369",
   "redirect_history": [],
   "selected_headers": {
     "Content-Type": "text/html; charset=UTF-8",
@@ -18,6 +18,6 @@
   "business_function": "채무조정 안내",
   "page_title_manifest": "채무조정 재기지원 > 채무정보 조회 ＆ 상담신청",
   "fetch_strategy": "requests_html",
-  "parser_profile": "kdic_final_v1",
+  "parser_profile": "kdic_final_media_attachment_v2",
   "raw_html_path": "raw/html/채무조정 안내/DA-002.html"
 }

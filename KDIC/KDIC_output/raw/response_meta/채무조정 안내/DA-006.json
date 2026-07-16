@@ -5,10 +5,10 @@
   "ok": true,
   "content_type": "text/html; charset=UTF-8",
   "encoding": "UTF-8",
-  "elapsed_seconds": 3.748,
-  "collected_at": "2026-07-14T16:24:58+09:00",
+  "elapsed_seconds": 0.992,
+  "collected_at": "2026-07-16T10:59:49+09:00",
   "content_length": 507757,
-  "raw_sha256": "7ed8754ac0d0aa364b68b9db73af654b33190a6d7ab367e8aeb256d948478136",
+  "raw_sha256": "f7d162b40e7c5e7292386b7caf2faaad9031ababe8a62ad6287202672078939d",
   "redirect_history": [],
   "selected_headers": {
     "Content-Type": "text/html; charset=UTF-8",
@@ -18,6 +18,6 @@
   "business_function": "채무조정 안내",
   "page_title_manifest": "채무조정 재기지원 > 개인회생",
   "fetch_strategy": "requests_html",
-  "parser_profile": "kdic_final_v1",
+  "parser_profile": "kdic_final_media_attachment_v2",
   "raw_html_path": "raw/html/채무조정 안내/DA-006.html"
 }

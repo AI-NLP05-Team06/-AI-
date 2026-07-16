@@ -13,7 +13,7 @@
   "business_function": "착오송금 반환 신청",
   "target_business_function": "착오송금 반환 신청",
   "page_type": "static_page",
-  "parser_profile": "kdic_final_v1",
+  "parser_profile": "kdic_final_media_attachment_v2",
   "breadcrumb": [
     "착오송금 반환 신청",
     "착오송금 반환지원제도 > 착오송금반환지원 신청방법"
@@ -68,21 +68,9 @@
     }
   ],
   "attachments": [],
-  "images": [
-    {
-      "url": "https://www.kdic.or.kr/assets/images/img-ddoooo-01.png",
-      "alt": "",
-      "filename": "img-ddoooo-01.png",
-      "image_role": "decorative"
-    },
-    {
-      "url": "https://www.kdic.or.kr/assets/images/img-ddoooo-02.png",
-      "alt": "",
-      "filename": "img-ddoooo-02.png",
-      "image_role": "decorative"
-    }
-  ],
+  "images": [],
   "videos": [],
+  "supplementary_links": [],
   "policy": {
     "normalized_decision": "include_full",
     "content_scope": "온라인·방문 신청방법 전체",
@@ -90,9 +78,15 @@
     "action_policy": "O(온라인 신청·방문 위치)",
     "expected_action_types": "apply|location",
     "pagination_policy": "불필요",
-    "auth_required": "온라인 신청 시 필요"
+    "auth_required": "온라인 신청 시 필요",
+    "attachment_download_policy": "X",
+    "attachment_rag_policy": "none",
+    "attachment_user_delivery_policy": "none",
+    "video_policy": "none",
+    "webtoon_policy": "none",
+    "image_policy": "metadata_only_nondecorative"
   },
-  "parsed_at": "2026-07-14T16:23:21+09:00",
+  "parsed_at": "2026-07-16T10:58:57+09:00",
   "content_markdown": "### 신청방법\n\n온라인 신청 사이트 : fins.kdic.or.kr (상단 아이콘 클릭 시 사이트 연결) 접속방법 : PC (모바일은 추후 지원 예정) 준비물 : 공동인증서, 이체(송금)확인증* * 본인 신청이 아닌 경우, 구비서류 확인 예금보험공사 핵심가치 방문 신청 주소 : 서울시 중구 청계천로 30 1층 (상단 아이콘 클릭시 지도 연결) 연락처 : 1588-0037 준비물 : 신분증, 이체(송금)확인증* * 본인 신청이 아닌 경우, 구비서류 확인",
   "content_text": "신청방법 온라인 신청 사이트 : fins.kdic.or.kr (상단 아이콘 클릭 시 사이트 연결) 접속방법 : PC (모바일은 추후 지원 예정) 준비물 : 공동인증서, 이체(송금)확인증* * 본인 신청이 아닌 경우, 구비서류 확인 예금보험공사 핵심가치 방문 신청 주소 : 서울시 중구 청계천로 30 1층 (상단 아이콘 클릭시 지도 연결) 연락처 : 1588-0037 준비물 : 신분증, 이체(송금)확인증* * 본인 신청이 아닌 경우, 구비서류 확인",
   "parsed_content_sha256": "0822f58a8eed0c73fda9638f5c789998ec62dd56711f74feae71f2551212de87",
@@ -107,6 +101,8 @@
     "table_count": 0,
     "attachment_button_count": 0,
     "action_count": 2,
+    "video_count": 0,
+    "supplementary_link_count": 0,
     "noise_hits": []
   },
   "pagination_collection": {

@@ -13,7 +13,7 @@
   "business_function": "착오송금 반환 신청",
   "target_business_function": "착오송금 반환 신청",
   "page_type": "landing_router",
-  "parser_profile": "kdic_final_v1",
+  "parser_profile": "kdic_final_media_attachment_v2",
   "breadcrumb": [
     "착오송금 반환 신청",
     "착오송금반환지원 > 소개와 방법안내 > 상황선택"
@@ -116,45 +116,9 @@
     }
   ],
   "attachments": [],
-  "images": [
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/img-situChoice01.png",
-      "alt": "",
-      "filename": "img-situChoice01.png",
-      "image_role": "decorative"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/img-situChoice02.png",
-      "alt": "",
-      "filename": "img-situChoice02.png",
-      "image_role": "decorative"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/img-situChoice03.png",
-      "alt": "",
-      "filename": "img-situChoice03.png",
-      "image_role": "decorative"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/img-situChoice04.png",
-      "alt": "",
-      "filename": "img-situChoice04.png",
-      "image_role": "decorative"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/img-situChoice05.png",
-      "alt": "",
-      "filename": "img-situChoice05.png",
-      "image_role": "decorative"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/assets/images/img-situChoice06.png",
-      "alt": "",
-      "filename": "img-situChoice06.png",
-      "image_role": "decorative"
-    }
-  ],
+  "images": [],
   "videos": [],
+  "supplementary_links": [],
   "policy": {
     "normalized_decision": "include_partial",
     "content_scope": "상황 선택 설명만 인덱싱",
@@ -162,9 +126,15 @@
     "action_policy": "O(자가진단·신청·환급)",
     "expected_action_types": "self_check|apply|refund",
     "pagination_policy": "불필요",
-    "auth_required": "신청 단계에서 필요"
+    "auth_required": "신청 단계에서 필요",
+    "attachment_download_policy": "X",
+    "attachment_rag_policy": "none",
+    "attachment_user_delivery_policy": "none",
+    "video_policy": "none",
+    "webtoon_policy": "none",
+    "image_policy": "metadata_only_nondecorative"
   },
-  "parsed_at": "2026-07-14T16:24:01+09:00",
+  "parsed_at": "2026-07-16T10:59:18+09:00",
   "content_markdown": "착오송금인 돈을 잘못 보냈어요.\n\n- 신청자격 확인\n- 바로 신청\n\n착오송금수취인 모르는 돈을 받았어요.\n\n- 이의제기\n- 채무잔액 확인\n- 이체수수료 환급신청\n- 반환 확인\n\n※ 착오송금반환지원을 처음 하시는 분은 신청자격 확인을 먼저 진행해주십시오.",
   "content_text": "착오송금인 돈을 잘못 보냈어요. 신청자격 확인 바로 신청 착오송금수취인 모르는 돈을 받았어요. 이의제기 채무잔액 확인 이체수수료 환급신청 반환 확인 ※ 착오송금반환지원을 처음 하시는 분은 신청자격 확인을 먼저 진행해주십시오.",
   "parsed_content_sha256": "89c0d4d98cabbd18807652639f3d8c76330ec3c700e5e82c43fc971e784ec8e2",
@@ -179,6 +149,8 @@
     "table_count": 0,
     "attachment_button_count": 0,
     "action_count": 3,
+    "video_count": 0,
+    "supplementary_link_count": 0,
     "noise_hits": []
   },
   "pagination_collection": {

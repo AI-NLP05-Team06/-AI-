@@ -13,7 +13,7 @@
   "business_function": "착오송금 반환 신청",
   "target_business_function": "착오송금 반환 신청",
   "page_type": "static_page",
-  "parser_profile": "kdic_final_v1",
+  "parser_profile": "kdic_final_media_attachment_v2",
   "breadcrumb": [
     "착오송금 반환 신청",
     "착오송금 반환지원제도 > 착오송금반환지원 신청대상"
@@ -80,6 +80,7 @@
   "attachments": [],
   "images": [],
   "videos": [],
+  "supplementary_links": [],
   "policy": {
     "normalized_decision": "include_full",
     "content_scope": "신청 가능 금액·기한·제외사유 전체",
@@ -87,9 +88,15 @@
     "action_policy": "있을 경우 O(자가진단·신청)",
     "expected_action_types": "self_check|apply",
     "pagination_policy": "불필요",
-    "auth_required": "신청 단계에서 필요"
+    "auth_required": "신청 단계에서 필요",
+    "attachment_download_policy": "X",
+    "attachment_rag_policy": "none",
+    "attachment_user_delivery_policy": "none",
+    "video_policy": "none",
+    "webtoon_policy": "none",
+    "image_policy": "metadata_only_nondecorative"
   },
-  "parsed_at": "2026-07-14T16:24:21+09:00",
+  "parsed_at": "2026-07-16T10:59:28+09:00",
   "content_markdown": "#### 신청 가능한 착오송금 금액 한도가 있나요?\n\n신청 가능 한도는 착오송금 건당 5만원 이상 ~ 1억원 이하 입니다.\n\n#### 언제까지 신청하면 되나요?\n\n잘못 이체한 날로부터 1년 이내까지 신청 가능합니다\n\n#### 예금보험공사에 신청하기 전에 해야 할 일이 있나요?\n\n이체 시 이용한 금융회사, 간편송금업체 등을 통해 먼저 반환을 요청해야 합니다.\n\n금융회사, 간편송금업체 등을 통해서도 돌려받지 못한 경우 신청 가능합니다.\n\n#### 예금보험공사에서 지원하지 않는 경우도 있나요?\n\n지원하지 않는 대표적인 사례는 다음과 같습니다\n\n- 잘못 보낸 계좌가 사기, 보이스피싱 등 범죄 이용(의심) 계좌인 경우\n- 잘못 보낸 계좌가 압류 등 법적제한계좌 또는 지급정지계좌인 경우\n- 잘못 보낸 계좌의 예금주가 사망했거나 출국하여 국내 주소 없는 경우\n- 잘못 보낸 계좌의 예금주(법인)가 휴·폐업한 경우 등",
   "content_text": "신청 가능한 착오송금 금액 한도가 있나요? 신청 가능 한도는 착오송금 건당 5만원 이상 ~ 1억원 이하 입니다. 언제까지 신청하면 되나요? 잘못 이체한 날로부터 1년 이내까지 신청 가능합니다 예금보험공사에 신청하기 전에 해야 할 일이 있나요? 이체 시 이용한 금융회사, 간편송금업체 등을 통해 먼저 반환을 요청해야 합니다. 금융회사, 간편송금업체 등을 통해서도 돌려받지 못한 경우 신청 가능합니다. 예금보험공사에서 지원하지 않는 경우도 있나요? 지원하지 않는 대표적인 사례는 다음과 같습니다 잘못 보낸 계좌가 사기, 보이스피싱 등 범죄 이용(의심) 계좌인 경우 잘못 보낸 계좌가 압류 등 법적제한계좌 또는 지급정지계좌인 경우 잘못 보낸 계좌의 예금주가 사망했거나 출국하여 국내 주소 없는 경우 잘못 보낸 계좌의 예금주(법인)가 휴·폐업한 경우 등",
   "parsed_content_sha256": "6c9f930996be88489bd4d38b9313edeebb0ff2b94d4b28111d5be08a5bc7e6ab",
@@ -104,6 +111,8 @@
     "table_count": 0,
     "attachment_button_count": 0,
     "action_count": 0,
+    "video_count": 0,
+    "supplementary_link_count": 0,
     "noise_hits": []
   },
   "pagination_collection": {

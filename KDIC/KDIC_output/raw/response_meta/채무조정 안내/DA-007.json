@@ -5,10 +5,10 @@
   "ok": true,
   "content_type": "text/html; charset=UTF-8",
   "encoding": "UTF-8",
-  "elapsed_seconds": 3.754,
-  "collected_at": "2026-07-14T16:25:05+09:00",
+  "elapsed_seconds": 0.959,
+  "collected_at": "2026-07-16T10:59:53+09:00",
   "content_length": 500326,
-  "raw_sha256": "975ac6395c6c5703535746533228e121da218b0054827da4eeb3cfad0fa8f7b0",
+  "raw_sha256": "955c1e6caf6f0366688a929cbc50aa1a5787a73f51ad513f1b9edbded53a6485",
   "redirect_history": [],
   "selected_headers": {
     "Content-Type": "text/html; charset=UTF-8",
@@ -18,6 +18,6 @@
   "business_function": "채무조정 안내",
   "page_title_manifest": "지원자금관리 > 부채증명원/금융거래정보신청",
   "fetch_strategy": "requests_html",
-  "parser_profile": "kdic_final_v1",
+  "parser_profile": "kdic_final_media_attachment_v2",
   "raw_html_path": "raw/html/채무조정 안내/DA-007.html"
 }

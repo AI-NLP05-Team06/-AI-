@@ -5,10 +5,10 @@
   "ok": true,
   "content_type": "text/html; charset=UTF-8",
   "encoding": "UTF-8",
-  "elapsed_seconds": 4.122,
-  "collected_at": "2026-07-14T16:23:02+09:00",
+  "elapsed_seconds": 0.978,
+  "collected_at": "2026-07-16T10:58:47+09:00",
   "content_length": 497440,
-  "raw_sha256": "b78ebfd2cad4c6fcca08ba7c0b802e4e42b0d7cab233e6b72250f538d0f6d932",
+  "raw_sha256": "e26c3c8bcc6b99db1e3d23a5a439ab1737d190fa2c640f1b9f58120c94377d67",
   "redirect_history": [],
   "selected_headers": {
     "Content-Type": "text/html; charset=UTF-8",
@@ -18,6 +18,6 @@
   "business_function": "고객 미수령금 신청",
   "page_title_manifest": "미수령금 통합조회/신청 > 상속인 금융거래조회",
   "fetch_strategy": "requests_html",
-  "parser_profile": "kdic_final_v1",
+  "parser_profile": "kdic_final_media_attachment_v2",
   "raw_html_path": "raw/html/고객 미수령금 신청/UN-004.html"
 }

@@ -13,7 +13,7 @@
   "business_function": "착오송금 반환 신청",
   "target_business_function": "착오송금 반환 신청",
   "page_type": "video_page",
-  "parser_profile": "kdic_final_v1",
+  "parser_profile": "kdic_final_media_attachment_v2",
   "breadcrumb": [
     "착오송금 반환 신청",
     "착오송금 반환지원제도 > 착오송금반환지원 제도란"
@@ -26,11 +26,7 @@
     },
     {
       "type": "paragraph",
-      "text": "영상내용입니다."
-    },
-    {
-      "type": "paragraph",
-      "text": "제도 소개 안내영상입니다."
+      "text": "."
     },
     {
       "type": "heading",
@@ -51,10 +47,40 @@
       "url": "https://www.kdic.or.kr/assets/images/img-SP-DA0-000.png",
       "alt": "송금 후 아차 싶은 순간, 기억하세요 예금보험공사",
       "filename": "img-SP-DA0-000.png",
-      "image_role": "content_image"
+      "image_role": "content_image",
+      "indexable": false,
+      "download_policy": "metadata_only_nondecorative"
     }
   ],
-  "videos": [],
+  "videos": [
+    {
+      "video_id": "2ae44a5a29133c9c",
+      "label": "착오송금 반환지원제도 > 착오송금반환지원 제도란 영상",
+      "media_url": "https://www.kdic.or.kr/assets/images/ci.mp4",
+      "poster_url": "https://www.kdic.or.kr/assets/images/kmrs_intro.png",
+      "source_page_url": "https://www.kdic.or.kr/sp/kmrs/kmrsItrd/selectScrn.do",
+      "source_tag": "video",
+      "indexable": false,
+      "download": false,
+      "content_role": "supplementary",
+      "delivery_mode": "official_page"
+    }
+  ],
+  "supplementary_links": [
+    {
+      "supplementary_id": "6c133695917a0770",
+      "label": "착오송금 반환지원 제도 소개 영상 보기",
+      "url": "https://www.kdic.or.kr/sp/kmrs/kmrsItrd/selectScrn.do",
+      "link_type": "video",
+      "indexable": false,
+      "content_status": "reference_only",
+      "display_condition": "user_requests_video",
+      "media_urls": [
+        "https://www.kdic.or.kr/assets/images/ci.mp4"
+      ],
+      "notice": "영상은 이해를 돕는 참고 자료이며 최신 제도 답변의 직접 근거로 사용하지 않습니다."
+    }
+  ],
   "policy": {
     "normalized_decision": "include_full",
     "content_scope": "제도 소개 본문 전체, 영상은 메타데이터",
@@ -62,23 +88,31 @@
     "action_policy": "X",
     "expected_action_types": "",
     "pagination_policy": "불필요",
-    "auth_required": "해당 없음"
+    "auth_required": "해당 없음",
+    "attachment_download_policy": "X",
+    "attachment_rag_policy": "none",
+    "attachment_user_delivery_policy": "none",
+    "video_policy": "reference_only_official_page",
+    "webtoon_policy": "none",
+    "image_policy": "metadata_only_nondecorative"
   },
-  "parsed_at": "2026-07-14T16:23:09+09:00",
-  "content_markdown": "### 제도 소개 안내영상\n\n영상내용입니다.\n\n제도 소개 안내영상입니다.\n\n### 잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다.",
-  "content_text": "제도 소개 안내영상 영상내용입니다. 제도 소개 안내영상입니다. 잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다.",
-  "parsed_content_sha256": "e536f5b594c667c1ea76a4508f3c4b68bd2c74ff246cc8002c42f0072a2757e8",
-  "content_hash": "e536f5b594c667c1ea76a4508f3c4b68bd2c74ff246cc8002c42f0072a2757e8",
+  "parsed_at": "2026-07-16T10:58:50+09:00",
+  "content_markdown": "### 제도 소개 안내영상\n\n.\n\n### 잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다.",
+  "content_text": "제도 소개 안내영상 . 잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다.",
+  "parsed_content_sha256": "792e4bcd904acf69f3aac71c1143192aaca34d9c7bfde7d7b4ce63306ba38027",
+  "content_hash": "792e4bcd904acf69f3aac71c1143192aaca34d9c7bfde7d7b4ce63306ba38027",
   "quality": {
     "status": "pass",
     "reasons": [],
-    "source_text_chars": 108,
-    "parsed_text_chars": 108,
+    "source_text_chars": 86,
+    "parsed_text_chars": 86,
     "retention_ratio": 1.0,
     "faq_count": 0,
     "table_count": 0,
     "attachment_button_count": 0,
     "action_count": 0,
+    "video_count": 1,
+    "supplementary_link_count": 1,
     "noise_hits": []
   },
   "pagination_collection": {
@@ -91,7 +125,19 @@
   },
   "downloaded_assets": {
     "attachments": [],
-    "images": [],
+    "images": [
+      {
+        "url": "https://www.kdic.or.kr/assets/images/img-SP-DA0-000.png",
+        "alt": "송금 후 아차 싶은 순간, 기억하세요 예금보험공사",
+        "filename": "img-SP-DA0-000.png",
+        "image_role": "content_image",
+        "indexable": false,
+        "download_policy": "metadata_only_nondecorative",
+        "local_path": "raw/assets/착오송금 반환 신청/MT-001/images/img-SP-DA0-000.png",
+        "size_bytes": 68300,
+        "sha256": "65bb0b360f463e336f7c5296d88219469431d2a3b2a5c954667c5440176f0f5e"
+      }
+    ],
     "failures": []
   }
 }

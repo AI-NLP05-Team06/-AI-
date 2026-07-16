@@ -1,20 +1,29 @@
 {
-  "run_id": "kdic_crawl_output_20260714_162056",
+  "run_id": "kdic_crawl_output_20260716_105743",
   "manifest_count": 42,
   "target_count": 42,
+  "page_document_count": 42,
+  "attachment_document_count": 0,
   "document_count": 42,
-  "chunk_count": 186,
+  "chunk_count": 212,
   "status_counts": {
     "parse_success": 37,
     "paginated_full_collection_created": 4,
     "link_metadata_created": 1
   },
   "quality_counts": {
-    "pass": 41,
-    "review": 1
+    "pass": 42
   },
-  "action_count": 68,
+  "service_action_count": 26,
+  "download_action_count": 43,
   "attachment_count": 46,
-  "pagination_complete_count": 42,
+  "downloaded_attachment_count": 0,
+  "indexed_attachment_count": 0,
+  "video_reference_count": 1,
+  "supplementary_link_count": 2,
+  "attachment_review_count": 0,
+  "pagination_detected_count": 4,
+  "pagination_complete_count": 4,
+  "non_paginated_count": 38,
   "regression_failed_count": 0
 }
