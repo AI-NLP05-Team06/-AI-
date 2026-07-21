@@ -15,7 +15,7 @@
   "business_function": "착오송금 반환 신청",
   "target_business_function": "착오송금 반환 신청",
   "page_type": "landing_router",
-  "parser_profile": "kdic_final_integrated_v4",
+  "parser_profile": "kdic_final_integrated_v4_5",
   "resource_group_selector": "",
   "resource_group_chunk_policy": "page",
   "breadcrumb": [
@@ -170,7 +170,7 @@
     "image_policy": "metadata_only_nondecorative",
     "modal_content_policy": "none"
   },
-  "parsed_at": "2026-07-16T20:58:59+09:00",
+  "parsed_at": "2026-07-21T11:21:54+09:00",
   "content_markdown": "착오송금인 돈을 잘못 보냈어요.\n\n- 신청자격 확인\n- 바로 신청\n\n착오송금수취인 모르는 돈을 받았어요.\n\n- 이의제기\n- 채무잔액 확인\n- 이체수수료 환급신청\n- 반환 확인\n\n※ 착오송금반환지원을 처음 하시는 분은 신청자격 확인을 먼저 진행해주십시오.",
   "body_markdown": "착오송금인 돈을 잘못 보냈어요.\n\n- 신청자격 확인\n- 바로 신청\n\n착오송금수취인 모르는 돈을 받았어요.\n\n- 이의제기\n- 채무잔액 확인\n- 이체수수료 환급신청\n- 반환 확인\n\n※ 착오송금반환지원을 처음 하시는 분은 신청자격 확인을 먼저 진행해주십시오.",
   "content_text": "착오송금인 돈을 잘못 보냈어요. 신청자격 확인 바로 신청 착오송금수취인 모르는 돈을 받았어요. 이의제기 채무잔액 확인 이체수수료 환급신청 반환 확인 ※ 착오송금반환지원을 처음 하시는 분은 신청자격 확인을 먼저 진행해주십시오.",

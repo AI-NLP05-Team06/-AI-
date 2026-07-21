@@ -15,7 +15,7 @@
   "business_function": "착오송금 반환 신청",
   "target_business_function": "착오송금 반환 신청",
   "page_type": "video_page",
-  "parser_profile": "kdic_final_integrated_v4",
+  "parser_profile": "kdic_final_integrated_v4_5",
   "resource_group_selector": "",
   "resource_group_chunk_policy": "page",
   "breadcrumb": [
@@ -98,7 +98,7 @@
     "image_policy": "metadata_only_nondecorative",
     "modal_content_policy": "none"
   },
-  "parsed_at": "2026-07-16T20:58:21+09:00",
+  "parsed_at": "2026-07-21T11:21:22+09:00",
   "content_markdown": "### 제도 소개 안내영상\n\n잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다.",
   "body_markdown": "### 제도 소개 안내영상\n\n잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다.",
   "content_text": "제도 소개 안내영상 잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다.",

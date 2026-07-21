@@ -15,7 +15,7 @@
   "business_function": "착오송금 반환 신청",
   "target_business_function": "착오송금 반환 신청",
   "page_type": "process_page",
-  "parser_profile": "kdic_final_integrated_v4",
+  "parser_profile": "kdic_final_integrated_v4_5",
   "resource_group_selector": "",
   "resource_group_chunk_policy": "page",
   "breadcrumb": [
@@ -99,7 +99,7 @@
     "image_policy": "metadata_only_nondecorative",
     "modal_content_policy": "none"
   },
-  "parsed_at": "2026-07-16T20:58:52+09:00",
+  "parsed_at": "2026-07-21T11:21:48+09:00",
   "excluded_content": [
     {
       "reason": "웹툰 참고 링크 전용 정책",

@@ -15,7 +15,7 @@
   "business_function": "은닉재산 신고",
   "target_business_function": "은닉재산 신고",
   "page_type": "static_page",
-  "parser_profile": "kdic_final_integrated_v4",
+  "parser_profile": "kdic_final_integrated_v4_5",
   "resource_group_selector": "",
   "resource_group_chunk_policy": "page",
   "breadcrumb": [
@@ -295,7 +295,7 @@
     "image_policy": "metadata_only_nondecorative",
     "modal_content_policy": "none"
   },
-  "parsed_at": "2026-07-16T20:59:57+09:00",
+  "parsed_at": "2026-07-21T11:22:38+09:00",
   "excluded_content": [
     {
       "reason": "포상금 자동계산기 실행 전 초기값 표",

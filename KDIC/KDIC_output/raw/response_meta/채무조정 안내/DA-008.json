@@ -5,10 +5,10 @@
   "ok": true,
   "content_type": "text/html; charset=UTF-8",
   "encoding": "UTF-8",
-  "elapsed_seconds": 1.188,
-  "collected_at": "2026-07-16T20:59:52+09:00",
+  "elapsed_seconds": 0.91,
+  "collected_at": "2026-07-21T11:22:34+09:00",
   "content_length": 203058,
-  "raw_sha256": "98b69f5ac425b94fa4ca87a721456c13556b0c3cb87d05263f044fe4162d1c9c",
+  "raw_sha256": "67a9381765463711ab125f7f80a04e3466e9bdcab72706825528bc2c6ecb90af",
   "redirect_history": [],
   "selected_headers": {
     "Content-Type": "text/html; charset=UTF-8",
@@ -18,6 +18,6 @@
   "business_function": "채무조정 안내",
   "page_title_manifest": "고객센터 > FAQ > 채무정보조회",
   "fetch_strategy": "paginated_public",
-  "parser_profile": "kdic_final_integrated_v4",
+  "parser_profile": "kdic_final_integrated_v4_5",
   "raw_html_path": "raw/html/채무조정 안내/DA-008.html"
 }
